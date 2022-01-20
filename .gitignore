@@ -1,0 +1,8 @@
+# 前端
+/front
+# 后台
+/back
+# 数据库文件
+docker-data/mariadb/data
+docker-data/mongo/data
+docker-data/nginx/html

@@ -1,0 +1,13 @@
+{
+  "name": "keshihuadaping",
+  "version": "1.0.0",
+  "description": "项目总包\r 前后端仓库在其内部分别管理，所以git取消监听具体代码\r 仅保存docker配置",
+  "main": "index.js",
+  "scripts": {
+    "start": "docker-compose up -d",
+    "stop": "docker-compose down"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
