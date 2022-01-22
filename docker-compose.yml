@@ -46,6 +46,7 @@ services:
   back:
     # image: pm2:v1
     build: ./docker-data/back
+    image: visual_back:0.0.1
     container_name: visual_back
     restart: always
     
