@@ -6,3 +6,6 @@
 docker-data/mariadb/data
 docker-data/mongo/data
 docker-data/nginx/html
+docker-data/nginx/history
+docker-data/back/history
+docker-data/back/project
