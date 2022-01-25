@@ -7,4 +7,4 @@ WORKDIR /home/project
 
 EXPOSE 3000
 
-CMD tyarn && pm2-runtime ecosystem.config.js
+CMD tyarn && pm2-runtime ecosystem.config.js --env production
