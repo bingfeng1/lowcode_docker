@@ -9,3 +9,5 @@ docker-data/nginx/html
 docker-data/nginx/history
 docker-data/back/history
 docker-data/back/project
+# 文档
+/doc
